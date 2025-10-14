@@ -1,0 +1,19 @@
+Deep Learning for Biology - Companion Repository
+Copyright 2025 Charles Ravarani and Natasha Latysheva
+
+This product includes software developed by Charles Ravarani and Natasha Latysheva
+as part of the "Deep Learning for Biology" book published by O'Reilly Media.
+
+Original Repository: https://github.com/deep-learning-for-biology/dlfb
+
+================================================================================
+
+This fork includes modifications and additions made by Brandon Nieves,
+including but not limited to:
+
+- Chapter 1 notebook (chapter_1_training_loop.ipynb) covering training loop fundamentals
+- Local development environment setup and configuration
+- Environment diagnostic tooling for Python, virtual environments, and package verification
+- Additional documentation for local development workflow
+
+All modifications are distributed under the same Apache 2.0 License as the original work.

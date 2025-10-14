@@ -1,6 +1,21 @@
 # Deep Learning For Biology
 
-Welcome to the companion repository for **Deep Learning for Biology**, an O’Reilly book that explores how modern machine learning methods can be applied to DNA, RNA, proteins, and cellular data to investigate and model biological problems.
+Welcome to the companion repository for **Deep Learning for Biology**, an O'Reilly book that explores how modern machine learning methods can be applied to DNA, RNA, proteins, and cellular data to investigate and model biological problems.
+
+## About This Fork
+
+This is a personal fork of the [Deep Learning for Biology](https://github.com/deep-learning-for-biology/dlfb) companion repository, where I'm working through the book and adding additional notebooks and learning materials.
+
+### Changes from Original
+- **Chapter 1 Notebook**: Added `chapter_1_training_loop.ipynb` covering training loop fundamentals
+- **Local Development Setup**: Environment configuration for running notebooks locally with virtual environment support
+- **Environment Diagnostics**: Added tooling to verify Python environment, packages, and kernel setup
+- **Development Workflow**: Updated `.gitignore` for local development (`.venv/`, `dlfb-local/`)
+
+### Original Work
+This fork is based on the original work by **Charles Ravarani** and **Natasha Latysheva**.
+Original repository: https://github.com/deep-learning-for-biology/dlfb
+This fork maintains the **Apache 2.0 License** of the original work.
 
 ![Book Cover](assets/book-cover.png)
 
